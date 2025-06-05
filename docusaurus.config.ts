@@ -44,6 +44,7 @@ const config: Config = {
         [
             'classic',
             {
+                docs: false,
                 blog: {
                     showReadingTime: true,
                     feedOptions: {
@@ -62,17 +63,41 @@ const config: Config = {
         ],
     ],
 
+    plugins: [
+        [
+            '@docusaurus/plugin-content-docs',
+            {
+                id: 'past-teams',
+                path: 'past-teams',
+                routeBasePath: 'past-teams',
+                sidebarPath: './sidebars.ts',
+            },
+        ],
+    ],
+
     themeConfig: {
         // Replace with your project's social card
         image: 'img/docusaurus-social-card.jpg',
         navbar: {
-            title: '𝐹𝐼𝑅𝑆𝑇 Tech Slovenia',
+            title: '𝐹𝐼𝑅𝑆𝑇 Global Slovenia',
             logo: {
                 alt: 'FIRST Slovenia Logo',
                 src: 'img/logo.svg',
             },
             items: [
+                {
+                    type: "docsVersion",
+                    docsPluginId: "past-teams",
+                    position: "left",
+                    label: "Past teams",
+                },
                 { to: '/blog', label: 'Blog', position: 'left' },
+                // {
+                //     type: 'docSidebar',
+                //     sidebarId: 'projectsSidebar',
+                //     position: 'left',
+                //     label: 'Past teams',
+                // },
                 {
                     to: "sponsors",
                     position: "left",
