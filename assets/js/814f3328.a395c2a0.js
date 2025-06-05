@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkftcwebsite=self.webpackChunkftcwebsite||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Nazaj v Ibis!","permalink":"/blog/Nazaj v Ibis!","unlisted":false,"date":"2023-02-13T00:00:00.000Z"}]}')}}]);

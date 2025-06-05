@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkftcwebsite=self.webpackChunkftcwebsite||[]).push([[271],{4467:e=>{e.exports=JSON.parse('{"tags":[{"label":"ftc-2022","permalink":"/sl/blog/tags/ftc-2022","count":1}]}')}}]);
