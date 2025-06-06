@@ -92,12 +92,6 @@ const config: Config = {
                     label: "Past teams",
                 },
                 { to: '/blog', label: 'Blog', position: 'left' },
-                // {
-                //     type: 'docSidebar',
-                //     sidebarId: 'projectsSidebar',
-                //     position: 'left',
-                //     label: 'Past teams',
-                // },
                 {
                     to: "sponsors",
                     position: "left",
