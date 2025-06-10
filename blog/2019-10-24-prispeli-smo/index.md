@@ -1,5 +1,5 @@
 ---
-slug: Prispeli smo!
+slug: prispeli-smo
 title: Prispeli smo!
 authors: [ david-zindovic ]
 tags: [ fgc-2019 ]

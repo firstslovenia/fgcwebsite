@@ -1,5 +1,5 @@
 ---
-slug: Konec peščenih prigod
+slug: konec-peščenih-prigod
 title: Konec peščenih prigod
 authors: [ david-zindovic ]
 tags: [ fgc-2019 ]

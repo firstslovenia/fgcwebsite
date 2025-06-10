@@ -1,5 +1,5 @@
 ---
-slug: Vsaka uspešna zgodba ima ovire
+slug: vsaka-uspešna-zgodba-ima-ovire
 title: Vsaka uspešna zgodba ima ovire
 authors: [ david-zindovic ]
 tags: [ fgc-2019 ]

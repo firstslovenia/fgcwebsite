@@ -1,5 +1,5 @@
 ---
-slug: Korak bližje zlatu!
+slug: korak-bližje-zlatu
 title: Korak bližje zlatu!
 authors: [ david-zindovic ]
 tags: [ fgc-2019 ]
