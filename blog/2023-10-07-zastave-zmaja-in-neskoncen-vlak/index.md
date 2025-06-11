@@ -1,5 +1,5 @@
 ---
-slug: zastave-zmaja-in-neskončen-vlak
+slug: zastave-zmaja-in-neskoncen-vlak
 title: Zastave, zmaja in neskončen vlak
 authors: [ david-zindovic ]
 tags: [ fgc-2023 ]
