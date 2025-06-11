@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfgcwebsite=self.webpackChunkfgcwebsite||[]).push([[8795],{8191:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"past-teams"}')}}]);
