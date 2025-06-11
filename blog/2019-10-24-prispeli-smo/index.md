@@ -33,4 +33,3 @@ lahko noč
 ![Letalo](img/letalo.jpg)
 ![Burj Khalifa](img/velikaSvetlecaZgradba.jpg)
 ![Blue perfomance](img/modro.jpg)
-![Ekipna fotografija](img/ekipa.jpg)

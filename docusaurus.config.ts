@@ -47,6 +47,7 @@ const config: Config = {
                 docs: false,
                 blog: {
                     showReadingTime: true,
+                    blogSidebarCount: 'ALL',
                     feedOptions: {
                         type: ['rss', 'atom'],
                         xslt: true,
